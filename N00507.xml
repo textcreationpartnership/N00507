@@ -118,8 +118,8 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:000633_0000_0FA95E8F13B253F0"/>
-            <pb n="1" facs="tcp:000633_0001_0FA95E8FDD693490"/>
+            <pb facs="unknown:000633_0000_0FA95E8F13B253F0"/>
+            <pb n="1" facs="unknown:000633_0001_0FA95E8FDD693490"/>
             <head>Signs of Apostacy LAMENTED.</head>
             <lg>
                <l>DOST thou the Name of <hi>Christian</hi> Profess?</l>
@@ -151,7 +151,7 @@
                <l>THE Word of GOD calls things by the right name,</l>
                <l>So do not we, lest we our selves should blame:</l>
                <l>
-                  <pb n="2" facs="tcp:000633_0002_0FA95E909EAF6090"/>
+                  <pb n="2" facs="unknown:000633_0002_0FA95E909EAF6090"/>
 Pride by the name of Decency we call,</l>
                <l>Although to <hi>Adam</hi> it gave such a fall;</l>
                <l>Which hath benumm'd our Senses, so that we</l>
@@ -196,7 +196,7 @@ Pride by the name of Decency we call,</l>
                <l>Lest GOD in's wrath out of his Land us spue.</l>
             </lg>
             <lg>
-               <pb n="3" facs="tcp:000633_0003_0FA95E9169EE4C78"/>
+               <pb n="3" facs="unknown:000633_0003_0FA95E9169EE4C78"/>
                <l>A TENDER Conscience a great Blessing is,</l>
                <l>Sure willingly such will not do amiss;</l>
                <l>But carefully will watch against all Sin,</l>
@@ -236,7 +236,7 @@ Pride by the name of Decency we call,</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="4" facs="tcp:000633_0004_0FA95E924757A768"/>
+            <pb n="4" facs="unknown:000633_0004_0FA95E924757A768"/>
             <head>A Caution to prevent Scandal.</head>
             <lg>
                <l>A FALSE Report against thy Brother, thou</l>
